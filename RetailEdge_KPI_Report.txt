@@ -1,0 +1,14 @@
+==================================================
+          RETAILEDGE DETAILED KPI REPORT          
+==================================================
+Total Revenue:       $160,200.00
+Total Orders:        35
+Average Order Value: $4,577.14
+Largest Order:       $11,700.00
+Smallest Order:      $45.00
+--------------------------------------------------
+PERFORMANCE HIGHLIGHTS:
+ - Top Region:   North ($52,150.00)
+ - Top Category: Furniture (Over 50% of Revenue)
+ - Peak Month:   June 2026 ($72,880.00)
+==================================================

@@ -1,0 +1,81 @@
+{
+    "kpis": {
+        "total_revenue": 160200,
+        "total_orders": 35,
+        "avg_order_value": 4577.142857142857,
+        "largest_order": 24300,
+        "smallest_order": 45
+    },
+    "monthly": [
+        {
+            "name": "Jan",
+            "revenue": 8395
+        },
+        {
+            "name": "Feb",
+            "revenue": 6300
+        },
+        {
+            "name": "Mar",
+            "revenue": 12280
+        },
+        {
+            "name": "Apr",
+            "revenue": 29545
+        },
+        {
+            "name": "May",
+            "revenue": 30800
+        },
+        {
+            "name": "Jun",
+            "revenue": 72880
+        }
+    ],
+    "regional": [
+        {
+            "name": "North",
+            "revenue": 52150
+        },
+        {
+            "name": "South",
+            "revenue": 20280
+        },
+        {
+            "name": "East",
+            "revenue": 54045
+        },
+        {
+            "name": "West",
+            "revenue": 33725
+        }
+    ],
+    "category": [
+        {
+            "name": "Furniture",
+            "revenue": 156700
+        },
+        {
+            "name": "Electronics",
+            "revenue": 3230
+        },
+        {
+            "name": "Lighting",
+            "revenue": 270
+        }
+    ],
+    "segment": [
+        {
+            "name": "Corporate",
+            "revenue": 146700
+        },
+        {
+            "name": "Consumer",
+            "revenue": 11480
+        },
+        {
+            "name": "Small Business",
+            "revenue": 2020
+        }
+    ]
+}

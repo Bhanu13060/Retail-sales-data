@@ -1,0 +1,11 @@
+.venv/
+.venv_old/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node.js dependencies (do not upload)
+**/node_modules/
+
+# Keep the pre-built dashboard-app/dist folder committed so it can run without Node.js
+!dashboard-app/dist/
