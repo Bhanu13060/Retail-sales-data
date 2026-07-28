@@ -97,13 +97,13 @@ def create_pdf(filename="Mini_Project_Submission.pdf"):
     # Form Fields Table
     form_data = [
         [Paragraph("Student Name:", form_label), Paragraph("Bhanu venkat", form_value)],
-        [Paragraph("College Name:", form_label), Paragraph("____________________________________________________", form_value)],
-        [Paragraph("Branch & Year:", form_label), Paragraph("____________________________________________________", form_value)],
-        [Paragraph("Roll Number:", form_label), Paragraph("____________________________________________________", form_value)],
+        [Paragraph("College Name:", form_label), Paragraph("NRI INSTITUTE OF TECHNOLOGY", form_value)],
+        [Paragraph("Branch & Year:", form_label), Paragraph("ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING_3rd year", form_value)],
+        [Paragraph("Roll Number:", form_label), Paragraph("23KP1A6151", form_value)],
         [Paragraph("Email ID:", form_label), Paragraph("bhanuvenkatsingamsetty@gmail.com", form_value)],
-        [Paragraph("Mobile Number:", form_label), Paragraph("____________________________________________________", form_value)],
+        [Paragraph("Mobile Number:", form_label), Paragraph("9885538072", form_value)],
         [Paragraph("Project Title:", form_label), Paragraph("RetailEdge Sales Report & Executive KPI Dashboard", form_value)],
-        [Paragraph("Project Domain:", form_label), Paragraph("Data Analysis, Business Intelligence & Web Development", form_value)],
+        [Paragraph("Project Domain:", form_label), Paragraph("MACHINE LEARNING", form_value)],
     ]
 
     form_table = Table(form_data, colWidths=[110, 370])
